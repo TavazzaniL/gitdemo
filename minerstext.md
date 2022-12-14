@@ -6,3 +6,5 @@ Here is a text file that you can write stuff into.
 YQ writes more text.
 
 SM writes as well.
+
+CZ look forward fundo tonight
