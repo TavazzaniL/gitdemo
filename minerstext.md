@@ -13,4 +13,4 @@ AV reindeers are better than people
 
 Wensheng also write a short note
 
-LT Github ist sehr schön
+LT Github ist sehr schön.
